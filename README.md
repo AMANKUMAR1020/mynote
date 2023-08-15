@@ -1,5 +1,5 @@
 # hey i have build new website called mynote
-# --->>>[click me please] (https://mynote-uvp5.onrender.com) 
+# --->>>[click me please](https://mynote-uvp5.onrender.com) 
 
 ## Organize, Collaborate, and Empower Your Workflow with MyNote!
 
